@@ -1,0 +1,9 @@
+@font-face {
+    font-family: follow_me;
+    src: url(follow_me.ttf);
+}
+.close p{
+    font-family: follow_me;
+    font-size: 30px;
+    font-weight: 100;
+}
